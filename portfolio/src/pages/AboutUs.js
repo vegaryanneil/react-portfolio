@@ -1,12 +1,12 @@
 import React from "react";
-import AboutSection from "../components/AboutSection";
+import LandingSection from "../components/LandingSection";
 import ServicesSection from "../components/ServicesSection";
 import FAQSection from "../components/FAQSection";
 
 const AboutUs = () => {
     return (
      <>
-        <AboutSection />
+        <LandingSection />
         <ServicesSection />
         <FAQSection />
     </>
