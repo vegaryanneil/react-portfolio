@@ -1,6 +1,6 @@
 # Updated-Portfolio
 
-![Landing Page](portfolio/src/images/landingPageUpdate.png)
+![Landing Page](src/images/landingPageUpdate.png)
 ## Description
 
 This is an update to my initial portfolio. I am working transferring my previous portfolio into React.
@@ -28,11 +28,12 @@ I started to build out the components for the home page. I styled the landing pa
 ## Tools Used
 Styled Components
 Framer Motion - Planning to Use
+
 ## Access
 
-https://github.com/vegaryanneil/Updated-Portfolio
+https://github.com/vegaryanneil/react-portfolio
 
-https://vegaryanneil.github.io/Updated-Portfolio/
+https://vegaryanneil.github.io/react-portfolio/
 
 ## Resources
 
