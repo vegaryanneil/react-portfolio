@@ -5,7 +5,7 @@
 
 This is an update to my initial portfolio. I am working transferring my previous portfolio into React.
 
-![Nav Page](portfolio/src/images/burgerMenuUpdate.png)
+<!-- ![Nav Page](portfolio/src/images/burgerMenuUpdate.png) -->
 
 ## To Do List
 1. Project Page
@@ -37,7 +37,3 @@ https://vegaryanneil.github.io/Updated-Portfolio/
 ## Resources
 
 Dev Ed
-
-https://www.youtube.com/watch?v=H4MkGzoACpQ
-
-https://www.youtube.com/watch?v=TpwpAYi-p2w
