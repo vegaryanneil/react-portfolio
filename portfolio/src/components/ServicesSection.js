@@ -5,7 +5,7 @@ import React from "react";
 const ServicesSection = () => {
     return (
         <div className="services">
-            <div className="description">
+            <div className="serviceDescription">
                 <h2>High <span>Quality</span> Services</h2>
                 <div className="cards">
                     <div className="card">
