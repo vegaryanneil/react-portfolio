@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from 'react-router-dom';
+import GithubIcon from '../Images/github.svg'
 
 const NavBar = ({ toggle }) => {
     return (
@@ -16,6 +17,9 @@ const NavBar = ({ toggle }) => {
                 <Link className="p-4" to="/About">About</Link>
                 {/* <Link className="p-4" to="/Contact">Contact</Link> */}
                 {/* <Link className="p-4" to="/"></Link> */}
+                <Link>
+                <img className="w-6 h-6" src={GithubIcon} alt="Github Icon"></img>
+                </Link>
             </div>
         </nav>
 
