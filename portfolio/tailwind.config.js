@@ -6,10 +6,11 @@ module.exports = {
       colors: {
         // transparent: 'transparent',
         // current: 'currentColor',
-        primary: '#FFC947',
-        secondary: '#EFEFEF',
-        accent: '#185ADB',
-        text: '#0A1931',
+        primary: '#E1DFCC',
+        secondary: '#EFE2BA',
+        accent: '#F13C20',
+        text: '#1D1D1B',
+        other: '#C5CBE3',
       },
       fontFamily: {
         body: ['Raleway']

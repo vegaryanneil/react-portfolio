@@ -7,6 +7,7 @@ import NavBar from "./Components/NavBar";
 import About from "./Pages/About";
 import Contact from "./Pages/Contact";
 import Home from "./Pages/Home";
+import Project from "./Pages/Project"
 
 function App() {
   const [isOpen, setIsOpen] = useState(false)
@@ -38,6 +39,7 @@ function App() {
       <Route path='/' exact component={Home} />
       <Route path='/about' exact component={About} />
       <Route path='/contact' exact component={Contact} />
+      <Route path='/projects' exact component={Project} />
     </Switch>
     <Footer />
     </>
