@@ -11,6 +11,7 @@ module.exports = {
         accent: '#F13C20',
         text: '#1D1D1B',
         other: '#C5CBE3',
+        green: '#08350E',
       },
       fontFamily: {
         body: ['Raleway']
